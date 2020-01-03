@@ -1,1 +1,1 @@
-# typf.xyz-.github.io
+# typf.xyz.github.io
